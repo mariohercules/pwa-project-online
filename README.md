@@ -1,4 +1,4 @@
-#  Fect data from PWA Project Online
+#  Fetch data from PWA Project Online
 
 ```php
 
